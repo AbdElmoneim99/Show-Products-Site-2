@@ -1,0 +1,10 @@
+.photo img {
+  border-radius: 10px;
+  width: 250px;
+  height: 280px;
+  text-align: center;
+}
+
+.picture {
+  color: #ffffff;
+}
